@@ -1,0 +1,15 @@
+/home/arthur/Documentos/Dio/ProjetoEstacionamentoDois/bin/Debug/net6.0/ProjetoEstacionamentoDois
+/home/arthur/Documentos/Dio/ProjetoEstacionamentoDois/bin/Debug/net6.0/ProjetoEstacionamentoDois.deps.json
+/home/arthur/Documentos/Dio/ProjetoEstacionamentoDois/bin/Debug/net6.0/ProjetoEstacionamentoDois.runtimeconfig.json
+/home/arthur/Documentos/Dio/ProjetoEstacionamentoDois/bin/Debug/net6.0/ProjetoEstacionamentoDois.dll
+/home/arthur/Documentos/Dio/ProjetoEstacionamentoDois/bin/Debug/net6.0/ref/ProjetoEstacionamentoDois.dll
+/home/arthur/Documentos/Dio/ProjetoEstacionamentoDois/bin/Debug/net6.0/ProjetoEstacionamentoDois.pdb
+/home/arthur/Documentos/Dio/ProjetoEstacionamentoDois/obj/Debug/net6.0/ProjetoEstacionamentoDois.csproj.AssemblyReference.cache
+/home/arthur/Documentos/Dio/ProjetoEstacionamentoDois/obj/Debug/net6.0/ProjetoEstacionamentoDois.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/Documentos/Dio/ProjetoEstacionamentoDois/obj/Debug/net6.0/ProjetoEstacionamentoDois.AssemblyInfoInputs.cache
+/home/arthur/Documentos/Dio/ProjetoEstacionamentoDois/obj/Debug/net6.0/ProjetoEstacionamentoDois.AssemblyInfo.cs
+/home/arthur/Documentos/Dio/ProjetoEstacionamentoDois/obj/Debug/net6.0/ProjetoEstacionamentoDois.csproj.CoreCompileInputs.cache
+/home/arthur/Documentos/Dio/ProjetoEstacionamentoDois/obj/Debug/net6.0/ProjetoEstacionamentoDois.dll
+/home/arthur/Documentos/Dio/ProjetoEstacionamentoDois/obj/Debug/net6.0/ref/ProjetoEstacionamentoDois.dll
+/home/arthur/Documentos/Dio/ProjetoEstacionamentoDois/obj/Debug/net6.0/ProjetoEstacionamentoDois.pdb
+/home/arthur/Documentos/Dio/ProjetoEstacionamentoDois/obj/Debug/net6.0/ProjetoEstacionamentoDois.genruntimeconfig.cache
