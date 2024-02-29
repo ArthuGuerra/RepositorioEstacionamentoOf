@@ -7,15 +7,15 @@ namespace ProjetoEstacionamentoDois.Models
 {
     public class Estacionamento
     {
-        private decimal precoInicial = 0;  
-        private decimal precoPorHora = 0;    
+        private decimal _precoInicial = 0;  
+        private decimal _precoPorHora = 0;    
         
         private List<string> veiculos = new List<string>();
 
         public Estacionamento (decimal precoInicial, decimal precoPorHora)
         {
-            this.precoInicial = precoInicial;
-            this.precoPorHora = precoPorHora;
+            _precoInicial = precoInicial;
+            _precoPorHora = precoPorHora;
 
         }
 
@@ -61,7 +61,7 @@ namespace ProjetoEstacionamentoDois.Models
             {
                 Console.WriteLine("Quantas horas o veículo permaneceu no estacionamento ?");
                 decimal horas = Convert.ToDecimal(Console.ReadLine());
-                Console.WriteLine($" O valor para retirada é {precoInicial + (precoPorHora * horas)} ");
+                Console.WriteLine($" O valor para retirada é {_precoInicial + (_precoPorHora * horas)} ");
                 Console.ReadLine();
                 veiculos.Remove(placa);
                 Console.WriteLine("Veículo retirado. Volte sempre!");
