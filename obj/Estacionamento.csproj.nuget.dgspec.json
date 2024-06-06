@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/arthur/Documentos/RepositorioEstacionamento/ProjetoEstacionamentoDois/ProjetoEstacionamentoDois.csproj": {}
+    "/home/arthurguerra/Documentos/treino/ProjEstacionamento/RepositorioEstacionamentoOf/Estacionamento.csproj": {}
   },
   "projects": {
-    "/home/arthur/Documentos/RepositorioEstacionamento/ProjetoEstacionamentoDois/ProjetoEstacionamentoDois.csproj": {
+    "/home/arthurguerra/Documentos/treino/ProjEstacionamento/RepositorioEstacionamentoOf/Estacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/arthur/Documentos/RepositorioEstacionamento/ProjetoEstacionamentoDois/ProjetoEstacionamentoDois.csproj",
-        "projectName": "ProjetoEstacionamentoDois",
-        "projectPath": "/home/arthur/Documentos/RepositorioEstacionamento/ProjetoEstacionamentoDois/ProjetoEstacionamentoDois.csproj",
-        "packagesPath": "/home/arthur/.nuget/packages/",
-        "outputPath": "/home/arthur/Documentos/RepositorioEstacionamento/ProjetoEstacionamentoDois/obj/",
+        "projectUniqueName": "/home/arthurguerra/Documentos/treino/ProjEstacionamento/RepositorioEstacionamentoOf/Estacionamento.csproj",
+        "projectName": "Estacionamento",
+        "projectPath": "/home/arthurguerra/Documentos/treino/ProjEstacionamento/RepositorioEstacionamentoOf/Estacionamento.csproj",
+        "packagesPath": "/home/arthurguerra/.nuget/packages/",
+        "outputPath": "/home/arthurguerra/Documentos/treino/ProjEstacionamento/RepositorioEstacionamentoOf/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/arthur/.nuget/NuGet/NuGet.Config"
+          "/home/arthurguerra/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.127/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.128/RuntimeIdentifierGraph.json"
         }
       }
     }

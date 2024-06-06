@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "ProjetoEstacionamentoDois/1.0.0": {
+      "Estacionamento/1.0.0": {
         "runtime": {
-          "ProjetoEstacionamentoDois.dll": {}
+          "Estacionamento.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ProjetoEstacionamentoDois/1.0.0": {
+    "Estacionamento/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,7 +1,10 @@
 # Simulador de estacionamento!
 
-## Projeto simulando um programa de estacionamento. 
-# Registrando placas de carros e verificando se já estão dentro ou não do estacionamento, gerando uma taxa de pagamento na saída de acordo com o tempo. 
-Foi inspirado no desafio de projeto da DIO, na POO.
+## Projeto Estacionamento
 
-Este é um projeto totalmente feito por minha pessoa. Incrementei o projeto com algumas verificações para saber se ja existe a placa dentro do estacionamento, tanto pra sair quanto pra entrar.
+# Registrando placas de carros em diferentes estacionamentos, verificando se já estão dentro ou não do estacionamento, e assim, gerando uma taxa de pagamento na saída de acordo com o tempo que o veículo ficou no estacionamento. 
+
+
+È um projeto onde deixo o cliente escolher em qual estacionamento ele deseja estacionar, de luxo ou o comum, com diferentes preços e serviços para cada tipo.
+
+# Projeto pensado e desenvolvido totalmente por Arthur Guerra. 
